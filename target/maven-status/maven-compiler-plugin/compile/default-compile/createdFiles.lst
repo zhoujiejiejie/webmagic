@@ -1,0 +1,7 @@
+cn/readshu/shu/service/impl/ShuInfoServiceImpl.class
+cn/readshu/shu/pojo/ShuInfo.class
+cn/readshu/shu/dao/ShuInfoDao.class
+cn/readshu/shu/service/ShuInfoService.class
+cn/readshu/shu/task/SpringDataPipeline.class
+cn/readshu/shu/task/ShuProcessor.class
+cn/readshu/shu/Application.class
